@@ -1,0 +1,13 @@
+C:\Development\EsCom\EsComClient\bin\Debug\EsComClient.exe.config
+C:\Development\EsCom\EsComClient\bin\Debug\EsComClient.exe
+C:\Development\EsCom\EsComClient\bin\Debug\EsComClient.pdb
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.csprojResolveAssemblyReference.cache
+C:\Development\EsCom\EsComClient\obj\Debug\MainWindow.baml
+C:\Development\EsCom\EsComClient\obj\Debug\MainWindow.g.cs
+C:\Development\EsCom\EsComClient\obj\Debug\App.g.cs
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient_MarkupCompile.cache
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.g.resources
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.Properties.Resources.resources
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.csproj.GenerateResource.Cache
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.exe
+C:\Development\EsCom\EsComClient\obj\Debug\EsComClient.pdb

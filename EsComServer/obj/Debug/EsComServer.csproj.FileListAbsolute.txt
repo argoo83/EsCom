@@ -1,0 +1,6 @@
+C:\Development\EsCom\EsComServer\bin\EsComServer.dll.config
+C:\Development\EsCom\EsComServer\bin\EsComServer.dll
+C:\Development\EsCom\EsComServer\bin\EsComServer.pdb
+C:\Development\EsCom\EsComServer\obj\Debug\EsComServer.csprojResolveAssemblyReference.cache
+C:\Development\EsCom\EsComServer\obj\Debug\EsComServer.dll
+C:\Development\EsCom\EsComServer\obj\Debug\EsComServer.pdb
